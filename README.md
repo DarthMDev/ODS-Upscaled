@@ -12,7 +12,7 @@ Windows:
 ```
 1. Visit C:/Program Files (x86)/Operation Dessert Storm/resources
 2. Create a folder inside the resources folder called "Upscaled"
-3. Put all the .mf files into the Upscaled" folder
+3. Put all the .mf files into the "Upscaled" folder
 4. Run the game and have fun!
 ```
 
