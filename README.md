@@ -21,4 +21,12 @@ OS X:
 Coming soon.
 ```
 
-## ODS Upscaled + UI Additions is on its' way! Stay TOONed.
+## ODS Upscaled + UI Additions is on its' way! Stay TOONed. Want to see some previews? http://imgur.com/a/McWYm -- SUBJECT TO CHANGE | NOT THE FINAL PRODUCT.
+
+### Contributors:
+
+Syphon (Lead)
+Aidan Raene (Contributor)
+Alex Lionheart (Contributor)
+Brady (Contributor)
+Nightly (Contributor)
