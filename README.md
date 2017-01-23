@@ -25,8 +25,4 @@ Coming soon.
 
 ### Contributors:
 
-Syphon (Lead)
-Aidan Raene (Contributor)
-Alex Lionheart (Contributor)
-Brady (Contributor)
-Nightly (Contributor)
+Syphon (Lead) | Aidan Raene (Contributor) | Alex Lionheart (Contributor) | Brady (Contributor) | Nightly (Contributor)
